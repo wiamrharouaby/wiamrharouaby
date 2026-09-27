@@ -2,7 +2,7 @@
 
 ### Data Science | Intelligence Artificielle | Cybersécurité
 
-Diplômée d'un Master d'Excellence en Data Science et Sécurité des Systèmes d'Information, spécialisée en IA, Machine Learning et Cybersécurité. À la recherche d'une opportunité en tant que **Data Scientist, Machine Learning Engineer, AI Engineer ou Cybersecurity Engineer**.
+Diplômée d'un Master d'Excellence en Data Science et Sécurité des Systèmes d'Information, spécialisée en IA, Machine Learning et Cybersécurité.  
 
 📍 Mohammedia, Maroc
 📫 wiamrharouaby02@gmail.com
